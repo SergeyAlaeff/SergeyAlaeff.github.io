@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DiktorAlaeff",
-    "currentPage": "DemoAudio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 3,
+    "uniqCompNum": 4,
     "versionPublish": "4.10.4",
     "favicon": "",
     "noImageResize": "",
@@ -1418,9 +1418,29 @@
         {
           "_inherit": "soundcloud1",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "sound": "https://soundcloud.com/user-566216887/universam-sezon",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#fff"
+          },
+          "alias": "soundcloud",
+          "_tags": [
+            "Расширения"
+          ],
+          "_afterNavbarItem": false,
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F643946865&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F643946865",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-3"
+        },
+        {
+          "_inherit": "soundcloud1",
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": 0,
-            "sound": "https://soundcloud.com/user-566216887/reklamnyy-rolik",
+            "sound": "https://soundcloud.com/user-566216887/universam-sezon",
             "autoplay": false,
             "fullWidth": true,
             "bgColor": "#ffffff"
