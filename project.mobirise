@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 3,
+    "uniqCompNum": 11,
     "versionPublish": "4.10.4",
     "favicon": "",
     "noImageResize": "",
@@ -47,8 +47,8 @@
     "DemoAudio.html": {
       "settings": {
         "meta_descr": "Здесь представлены работы по озвучанию роликов, аудиокниг,презентаций, видео и т. д.",
-        "title": "Портфолио Диктора",
-        "order": 1
+        "title": "DemoAudio",
+        "order": 2
       },
       "components": [
         {
@@ -860,7 +860,7 @@
     "DiktorAlaeff.html": {
       "settings": {
         "main": true,
-        "title": "Диктор Сергей Алаев",
+        "title": "DiktorAlaeff",
         "meta_descr": "Это страница диктора Сергея Алаева. \nЕсли вам нужен рекламный ролик, озвучить видео или  записать аудиокнигу, автоответчик, IVR вам нужно оставить заявку в поле обратной связи",
         "header_custom": "",
         "footer_custom": "",
@@ -1643,11 +1643,11 @@
         }
       ]
     },
-    "Sound Design.html": {
+    "SoundDesign.html": {
       "settings": {
         "meta_descr": "Портфолио с работами по саунд дизайну",
-        "title": "Портфолио по саунд дизайну",
-        "order": 2
+        "title": "SoundDesign",
+        "order": 3
       },
       "components": [
         {
