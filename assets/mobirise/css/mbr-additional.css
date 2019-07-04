@@ -28,10 +28,10 @@ body {
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
-  font-size: 2.6rem;
+  font-size: 2.4rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.16rem;
+  font-size: 3.84rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.08rem;
-    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.92rem;
+    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -2321,18 +2321,18 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rup70sCnOZ {
+.cid-rv4wolT90A {
   padding-top: 105px;
   padding-bottom: 90px;
   background: linear-gradient(45deg, #073b4c, #55b4d4);
 }
 @media (min-width: 992px) {
-  .cid-rup70sCnOZ .mbr-figure {
+  .cid-rv4wolT90A .mbr-figure {
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rup70sCnOZ .mbr-figure {
+  .cid-rv4wolT90A .mbr-figure {
     padding-top: 3rem;
   }
 }
